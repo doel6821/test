@@ -73,12 +73,12 @@ body {
 
 .form {
   width : 960px;
-  height : 450px;
+  height : 500px;
   padding-top: 10px;
 }
 .form-right{
   width: 100%;
-  height :450px;
+  height :500px;
   float: right;
   background-color: white;
 }
