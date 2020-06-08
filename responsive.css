@@ -5,10 +5,16 @@
 @media all and (max-width: 1000px) {
   .template {
     width: 90%;
-
   }
+  .judul h2 {
+    font-size : 5vw;
+  }
+  .item h4 {
+    font-size : 4.5vw;
+  }
+
   .item p{
-    font-size: 16px;
+    font-size: 3.5vw;
   }
 }
 
@@ -18,7 +24,14 @@
     width: 100%;
 
   }
+  
+  .judul h2 {
+    font-size : 4vw;
+  }
+  .item h4 {
+    font-size : 3.5vw;
+  }
   .item p{
-    font-size: 12px;
+    font-size: 3vw;
   }
 }
