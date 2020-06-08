@@ -24,6 +24,7 @@ body {
 }
 .message-wrapper {
   padding : 0px 40px;
+  
 }
 
 .top-wrapper img{
@@ -67,7 +68,7 @@ body {
 }
 
 .paragraft p{
-  font-size: 2.5vw;
+  font-size: 18px;
 }
 
 span {
