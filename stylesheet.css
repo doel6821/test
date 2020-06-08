@@ -45,7 +45,7 @@ body {
 
 .judul h2{
   font-family: sans-serif;
-  font-size: 5vw ;
+  font-size: 7vw ;
   display:block;
   text-align: center;
   color: 	#6A5ACD;
@@ -68,7 +68,7 @@ body {
 }
 
 .paragraft p{
-  font-size: 18px;
+  font-size: 21px;
 }
 
 span {
@@ -78,7 +78,7 @@ span {
 
 
 .item h4{
-  font-size: 3.5vw;
+  font-size: 4.5vw;
   color: 	#0000FF;
   font-style: bold;
 }
