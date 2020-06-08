@@ -5,6 +5,16 @@
 
   }
 
+  .judul h2{
+    font-size: 4vw;
+  }
+
+  .item h4{
+    font-size: 3vw;
+  }
+  .item p{
+    font-size: 2.5vw;
+  }
 }
 
 /* Untuk Smartphone */
@@ -13,5 +23,15 @@
     width: 100%;
 
   }
+  .judul h2{
+    font-size: 3.5vw;
+  }
 
+  .item h4{
+    font-size: 2.5vw;
+  }
+
+  .item p{
+    font-size: 2vw;
+  }
 }
