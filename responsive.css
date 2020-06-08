@@ -4,14 +4,6 @@
     width: 90%;
 
   }
-
-  .judul h2{
-    font-size: 4vw;
-  }
-
-  .item h4{
-    font-size: 3.5vw;
-  }
   .item p{
     font-size: 18px;
   }
@@ -23,14 +15,6 @@
     width: 100%;
 
   }
-  .judul h2{
-    font-size: 4vw;
-  }
-
-  .item h4{
-    font-size: 3.5vw;
-  }
-
   .item p{
     font-size: 16px;
   }
@@ -41,15 +25,7 @@
     width: 100%;
 
   }
-  .judul h2{
-    font-size: 4vw;
-  }
-
-  .item h4{
-    font-size: 3.5vw;
-  }
-
   .item p{
-    font-size: 16pxvw;
+    font-size: 16px;
   }
 }
