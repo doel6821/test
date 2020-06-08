@@ -41,6 +41,7 @@ body {
   text-align: justify;
   letter-spacing: 0.5px;
   line-height: 1.5;
+  font-size;21px;
 }
 
 .judul h2{
@@ -67,9 +68,6 @@ body {
   margin-right: auto;
 }
 
-.paragraft p{
-  font-size: 21px;
-}
 
 span {
   font-style: bold;
