@@ -46,7 +46,7 @@ body {
 
 .judul h2{
   font-family: sans-serif;
-  font-size: 7vw ;
+  font-size: 6vw ;
   display:block;
   text-align: center;
   color: 	#6A5ACD;
@@ -76,10 +76,18 @@ span {
 
 
 .item h4{
-  font-size: 5vw;
+  font-size: 4vw;
   color: 	#0000FF;
   font-style: bold;
 }
+
+.item p{
+  font-size: 3vw;
+  
+  
+}
+
+
 
 .rumus {
   padding-left: 60px;
