@@ -123,3 +123,22 @@ span {
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
 }
+
+
+
+
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .template {
+    width: 90%;
+  }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .template {
+    width: 100%;
+
+  }
+  
+}
