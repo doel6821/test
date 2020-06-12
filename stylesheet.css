@@ -134,8 +134,27 @@ span {
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .template {
-    width: 100%;
-
+    width: 100%; 
   }
+
+  .judul h2{
+  font-size: 7vw ;
+}
+
+  .pembukaan p {
+  font-size: 4vw;
+}
+
+  .item h4{
+  font-size: 5vw;
+}
+
+  .item p{
+  font-size: 4vw;  
+}
+
+.penutupan p {
+  font-size: 4vw;
+}
   
 }
