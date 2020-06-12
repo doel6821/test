@@ -38,18 +38,6 @@ body {
 
 }
 
-
-
-
-.pembukaan p {
-  font-size: 3vw;
-}
-
-.penutupan p {
-  font-size: 3vw;
-}
-
-
 .judul h2{
   font-size: 5vw ;
   text-align: center;
@@ -57,8 +45,21 @@ body {
   font-style: italic;
 }
 
+.pembukaan p {
+  font-size: 3vw;
+}
+
 .text-content {
   text-indent: 30px;
+}
+
+.item h4{
+  font-size: 3.5vw;
+  color: 	#0000FF;  
+}
+
+.item p{
+  font-size: 3vw;  
 }
 
 .ilustrasi{
@@ -70,40 +71,24 @@ body {
   margin-right: auto;
 }
 
+.rumus {
+  padding-left: 60px;
+}
+
+.penutupan p {
+  font-size: 3vw;
+}
+
+.penutupan img{
+  max-width: 90%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
 
 span {
   font-style: bold;
   color : #0000FF;
 }
-
-
-.item h4{
-  font-size: 3.5vw;
-  color: 	#0000FF;
-  
-}
-
-.item p{
-  font-size: 3vw;
-  
-  
-}
-
-
-
-.rumus {
-  padding-left: 60px;
-}
-
-.penutupan img{
-
-  max-width: 90%;
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
-
-}
-
-
 
 .form {
   height : 450px;
@@ -144,19 +129,6 @@ span {
   .template {
     width: 90%;
   }
-  .judul h2 {
-    font-size : 36px}
-
-  .item h4{
-  font-size: 24px;
-  }
-  .pembukaan p{
-  font-size: 21px;
-    }  
-  .penutupan p{
-  font-size: 21px;
-    
-  
 }
 
 /* Untuk Smartphone */
