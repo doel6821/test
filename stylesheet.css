@@ -144,6 +144,19 @@ span {
   .template {
     width: 90%;
   }
+  .judul h2 {
+    font-size : 36px}
+
+  .item h4{
+  font-size: 24px;
+  }
+  .pembukaan p{
+  font-size: 21px;
+    }  
+  .penutupan p{
+  font-size: 21px;
+    
+  
 }
 
 /* Untuk Smartphone */
