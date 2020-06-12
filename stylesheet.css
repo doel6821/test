@@ -45,6 +45,28 @@ body {
   
 }
 
+.pembukaan {
+  text-align: justify;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+  
+}
+
+.pembukaan p {
+  font-size: 2vw;
+}
+
+.penutupan p {
+  font-size: 2vw;
+}
+
+.penutupan {
+  text-align: justify;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+  
+}
+
 .judul h2{
   font-size: 5vw ;
   text-align: center;
