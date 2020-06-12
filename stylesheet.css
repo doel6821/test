@@ -95,6 +95,16 @@ span {
   padding-left: 60px;
 }
 
+.penutupan img{
+
+  max-width: 90%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+
+}
+
+
+
 .form {
   height : 450px;
   padding-top: 10px;
