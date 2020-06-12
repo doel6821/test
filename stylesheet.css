@@ -25,7 +25,9 @@ body {
 }
 .message-wrapper {
   padding : 0px 40px;
-  
+  text-align: justify;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
 }
 
 .top-wrapper img{
@@ -38,19 +40,6 @@ body {
 
 
 
-.paragraft {
-  text-align: justify;
-  letter-spacing: 0.5px;
-  line-height: 1.5;
-  
-}
-
-.pembukaan {
-  text-align: justify;
-  letter-spacing: 0.5px;
-  line-height: 1.5;
-  
-}
 
 .pembukaan p {
   font-size: 3vw;
@@ -60,12 +49,6 @@ body {
   font-size: 3vw;
 }
 
-.penutupan {
-  text-align: justify;
-  letter-spacing: 0.5px;
-  line-height: 1.5;
-  
-}
 
 .judul h2{
   font-size: 5vw ;
